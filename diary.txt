@@ -1,0 +1,5 @@
+This is the second use git.
+This time, I use command line to improve my git skill.
+I open the ubuntu os, then do as the kindle tells.
+I feel exciting.
+Today is 2015-8-9, and now is 23:26. 
